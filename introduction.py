@@ -1,0 +1,6 @@
+print("Hi i'm Renee")
+print("This is my first class in python")
+print("addition of 55+90=",55+90)
+print("subtraction of 999-367=",999-367)
+print("multiplication of 23678x24=",2367*24)
+print("division of345/89=",346/89)
