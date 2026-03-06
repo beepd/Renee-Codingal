@@ -1,0 +1,3 @@
+word = input("Enter the word: ")
+upper_word = word.upper()
+print("The word in upper case is:", upper_word)
